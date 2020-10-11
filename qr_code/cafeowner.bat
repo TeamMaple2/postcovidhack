@@ -1,0 +1,1 @@
+python3 cafe_owner_qrcode.py --wallet 1Awyd1QWR5gcfrn1UmL8dUBj2H1eVKtQhg --amount 2.50 --balancecheck true

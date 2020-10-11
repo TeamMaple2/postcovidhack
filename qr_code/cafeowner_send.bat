@@ -1,0 +1,1 @@
+python3 cafeowner_send.py --qrinput data/customer_qr.png
